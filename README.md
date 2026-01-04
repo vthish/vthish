@@ -40,16 +40,16 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/midnight_purple/productive-time.svg" alt="Productive Time" />
+  <img src="https://github.com/vthish/vthish/blob/main/profile-summary-card-output/midnight_purple/productive-time.svg?raw=true" alt="Productive Time" />
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/midnight_purple/profile-details.svg" alt="Profile Details" />
+  <img src="https://github.com/vthish/vthish/blob/main/profile-summary-card-output/midnight_purple/profile-details.svg?raw=true" alt="Profile Details" />
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/midnight_purple/repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/midnight_purple/stats.svg" alt="Stats" />
+  <img src="https://github.com/vthish/vthish/blob/main/profile-summary-card-output/midnight_purple/repos-per-language.svg?raw=true" alt="Repos per Language" />
+  <img src="https://github.com/vthish/vthish/blob/main/profile-summary-card-output/midnight_purple/stats.svg?raw=true" alt="Stats" />
 </p>
 
 <p align="left">
