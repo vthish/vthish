@@ -80,7 +80,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -97,13 +96,19 @@
 
 <br/>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vthish&theme=night" alt="Profile Details" />
+  <img src="https://github.com/vthish/vthish/blob/profile-summary-cards/profile-summary-card-output/night/productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vthish&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="vthish stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vthish&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="vthish langs" />
+  <img src="https://github.com/vthish/vthish/blob/profile-summary-cards/profile-summary-card-output/night/profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/vthish/vthish/blob/profile-summary-cards/profile-summary-card-output/night/repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://github.com/vthish/vthish/blob/profile-summary-cards/profile-summary-card-output/night/stats.svg" alt="Stats" />
 </p>
 
 <p align="center">
