@@ -33,14 +33,8 @@
 
 <br/>
 
-<h3 align="center">📊 Contribution Graph</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/vthish" alt="vthish's Github chart" />
-</p>
+<h3 align="center">📈 GitHub Stats</h3>
 
-<br/>
-
-<h3 align="center">📈 GitHub Stats & Summary</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vthish&theme=night" alt="Profile Details" />
 </p>
@@ -51,9 +45,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthish&theme=dark&hide_border=true" alt="vthish" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vthish&theme=night" alt="Productive Time" />
 </p>
 
+<br/>
+
+<h3 align="center">📊 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthish&layout=compact&theme=dark&hide_border=true" alt="vthish" />
+  <img src="https://ghchart.rshah.org/219138/vthish" alt="vthish's Github chart" />
 </p>
