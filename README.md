@@ -40,16 +40,16 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/night/productive-time.svg" alt="Productive Time" />
+  <img src="./profile-summary-card-output/night/productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/night/profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/night/profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/night/repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-summary-card-output/night/stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/night/repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/night/stats.svg" alt="Stats" />
 </p>
 
 <p align="left">
