@@ -52,6 +52,6 @@
   <img src="https://github.com/vthish/vthish/blob/main/profile-summary-card-output/midnight_purple/stats.svg?raw=true" alt="Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthish&theme=dark&hide_border=true" alt="vthish streak" />
 </p>
