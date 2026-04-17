@@ -1,5 +1,3 @@
-<!-- 🔥 HERO SECTION -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/animated1.gif" width="100%" style="border-radius:20px;" />
 </p>
@@ -16,8 +14,6 @@
 
 ---
 
-<!-- 🧠 ABOUT -->
-
 ## 🧠 About Me
 
 💡 Passionate developer focused on **Full Stack Development & IoT Systems**<br>
@@ -26,8 +22,6 @@
 📍 Based in Sri Lanka 🇱🇰
 
 ---
-
-<!-- 🚀 PROJECTS -->
 
 ## 🚀 Featured Projects
 
@@ -51,8 +45,6 @@
 
 ---
 
-<!-- 🧊 TECH STACK -->
-
 ## 🧊 Tech Stack
 
 ### 💻 Programming
@@ -75,8 +67,6 @@
 
 ---
 
-<!-- 📊 STATS -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -86,8 +76,6 @@
 
 ---
 
-<!-- 🔥 STREAK -->
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -95,8 +83,6 @@
 </p>
 
 ---
-
-<!-- ⚡ ACTIVITY -->
 
 ## ⚡ Activity Graph
 
@@ -106,7 +92,13 @@
 
 ---
 
-<!-- 📬 CONTACT -->
+## 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vthish/vthish/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+---
 
 ## 📬 Contact Me
 
@@ -133,9 +125,8 @@
 </a>
 
 </p>
----
 
-<!-- ⚡ FOOTER -->
+---
 
 <p align="center">
   ⚡ Designed like a portfolio | Built with passion 💻🔥
