@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/banneranimated.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/animated1.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Venusha Thishan</h1>
