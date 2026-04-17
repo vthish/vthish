@@ -20,9 +20,9 @@
 
 ## 🧠 About Me
 
-💡 Passionate developer focused on **Full Stack Development & IoT Systems**
-🔧 Currently building **smart solutions (like automated systems & real-world apps)**
-🎯 Goal: Become a **top-tier software engineer + innovator**
+💡 Passionate developer focused on **Full Stack Development & IoT Systems**<br>
+🔧 Currently building **smart solutions (like automated systems & real-world apps)**<br>
+🎯 Goal: Become a **top-tier software engineer + innovator**<br>
 📍 Based in Sri Lanka 🇱🇰
 
 ---
