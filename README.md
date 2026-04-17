@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vthish&label=Profile%20views&color=00f7ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vthish&label=Profile%20views&color=00ace6&style=for-the-badge" />
 </p>
 
 ---
