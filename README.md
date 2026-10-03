@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Venusha Thishan</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;IoT+Innovator;Building+Smart+Systems;Turning+Ideas+into+Reality+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI%2FML+Enthusiast;DevOps;IoT+Innovator;Building+Smart+Systems;Turning+Ideas+into+Reality+🚀">
 </h3>
 
 <p align="center">
@@ -17,6 +17,8 @@
 ## 🧠 About Me
 
 💡 Passionate developer focused on **Full Stack Development & IoT Systems**<br>
+🧩 **Backend Developer · AI/ML Enthusiast · DevOps**<br>
+🌐 Portfolio: [www.vthish.dev](https://www.vthish.dev)<br>
 🔧 Currently building **smart solutions (like automated systems & real-world apps)**<br>
 🎯 Goal: Become a **top-tier software engineer + innovator**<br>
 📍 Based in Sri Lanka 🇱🇰
@@ -47,19 +49,27 @@
 ### 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,kotlin&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php,kotlin,ts,dart&theme=dark"/>
 </p>
 
 ### 🌐 Web & Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,react,nodejs,flutter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,react,nodejs,nextjs,nestjs,tailwind,flutter&theme=dark"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,firebase,mysql,postman,aws,linux,arduino,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,firebase,mysql,postman,aws,linux,arduino,spring,prisma,postgres,mongodb&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3%20Bucket-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM%20Role-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -84,7 +94,9 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&theme=github-compact&hide_border=true"/>
+  <a href="https://github.com/vthish">
+    <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/activity-graph.svg" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
+  </a>
 </p>
 
 ---
@@ -100,6 +112,10 @@
 ## 📬 Contact Me
 
 <p align="center">
+
+<a href="https://www.vthish.dev">
+  <img src="https://img.shields.io/badge/Portfolio-vthish.dev-00ace6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="mailto:venushathishan06@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>

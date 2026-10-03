@@ -1,0 +1,38 @@
+name: GitHub-Activity-Graph
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/activity-graph.svg"
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-activity-graph
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&area=true
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit activity graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/activity-graph.svg
+          git diff --cached --quiet || git commit -m "update activity graph"
+          git push
