@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/vthish">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
+    <img src="https://raw.githubusercontent.com/vthish/vthish/output/activity-graph.svg" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
   </a>
 </p>
 
