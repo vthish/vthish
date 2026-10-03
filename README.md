@@ -16,8 +16,7 @@
 
 ## 🧠 About Me
 
-💡 Passionate developer focused on **Full Stack Development & IoT Systems**<br>
-🧩 **Backend Developer · AI/ML Enthusiast · DevOps**<br>
+💡 Passionate developer focused on **Full Stack Development & IoT Systems** · **Backend Developer · AI/ML Enthusiast · DevOps**<br>
 🌐 Portfolio: [www.vthish.dev](https://www.vthish.dev)<br>
 🔧 Currently building **smart solutions (like automated systems & real-world apps)**<br>
 🎯 Goal: Become a **top-tier software engineer + innovator**<br>
@@ -64,9 +63,6 @@
 <img src="https://skillicons.dev/icons?i=git,firebase,mysql,postman,aws,linux,arduino,spring,prisma,postgres,mongodb&theme=dark"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
 
 ---
 
@@ -91,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/vthish">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&theme=tokyo-night&hide_border=true&area=true" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
   </a>
 </p>
 
