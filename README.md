@@ -65,10 +65,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20S3%20Bucket-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20IAM%20Role-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
@@ -95,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/vthish">
-    <img src="https://raw.githubusercontent.com/vthish/vthish/main/assets/activity-graph.svg" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthish&theme=tokyo-night&hide_border=true&area=true" alt="Venusha Thishan GitHub Activity Graph" width="100%"/>
   </a>
 </p>
 
