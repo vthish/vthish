@@ -21,13 +21,29 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate activity graph
+      - name: Generate activity graph (attempt 1)
+        id: generate_activity_graph_attempt_1
+        continue-on-error: true
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph (retry on transient failure)
+        id: generate_activity_graph_attempt_2
+        if: steps.generate_activity_graph_attempt_1.outcome == 'failure'
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&area=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fail workflow when graph generation fails twice
+        if: steps.generate_activity_graph_attempt_1.outcome == 'failure' && steps.generate_activity_graph_attempt_2.outcome == 'failure'
+        run: exit 1
 
       - name: Publish activity graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
