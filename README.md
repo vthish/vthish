@@ -68,14 +68,11 @@
 
 ## 🏆 Certifications & Badges
 
-<div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9be0631e-d180-4176-a2b9-3ce19885c51b" data-share-badge-host="https://www.credly.com">
-    <a href="https://www.credly.com/badges/9be0631e-d180-4176-a2b9-3ce19885c51b/public_url" target="_blank">
-      <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/twitter_thumb_201604_blob" width="150" height="150" alt="AWS Cloud Quest: Cloud Practitioner" title="AWS Cloud Quest: Cloud Practitioner" />
-    </a>
-  </div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/9be0631e-d180-4176-a2b9-3ce19885c51b/public_url" target="_blank">
+    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/twitter_thumb_201604_blob" height="160" alt="AWS Cloud Quest: Cloud Practitioner" />
+  </a>
+</p>
 
 ---
 
