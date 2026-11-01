@@ -26,11 +26,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add profile-3d-contrib/
           if git diff --staged --quiet; then
             echo "No changes in 3D contribution graph"
           else
             git commit -m "chore: update 3D contribution graph [skip ci]"
+            git pull --rebase origin main
             git push origin main
           fi

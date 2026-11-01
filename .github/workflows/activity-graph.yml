@@ -25,7 +25,7 @@ jobs:
       - name: Generate activity graph (attempt 1)
         id: generate_activity_graph_attempt_1
         continue-on-error: true
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
@@ -35,7 +35,7 @@ jobs:
       - name: Generate activity graph (retry on transient failure)
         id: generate_activity_graph_attempt_2
         if: steps.generate_activity_graph_attempt_1.outcome == 'failure'
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
