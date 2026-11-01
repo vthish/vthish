@@ -1,20 +1,25 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "30 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-summary-cards
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24f1t5/github-profile-summary-cards@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate Profile Summary Cards
+        uses: vn7n24f1t5/github-profile-summary-cards@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: midnight_purple
+          THEME: tokyonight

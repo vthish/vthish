@@ -63,7 +63,6 @@
 <img src="https://skillicons.dev/icons?i=git,firebase,mysql,postman,aws,linux,arduino,spring,prisma,postgres,mongodb&theme=dark"/>
 </p>
 
-
 ---
 
 ## 🏆 Certifications & Badges
@@ -74,13 +73,31 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/9be0631e-d180-4176-a2b9-3ce19885c51b/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Quest%3A%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Quest" />
+  </a>
+  <a href="https://www.linkedin.com/in/venusha-thishan/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/NIBM-Higher%20National%20Diploma%20in%20Software%20Engineering-007ACC?style=for-the-badge&logo=codementor&logoColor=white" alt="HNDSE - NIBM" />
+  </a>
+  <a href="https://www.linkedin.com/in/venusha-thishan/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/NIBM-Diploma%20in%20Software%20Engineering-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="DSE - NIBM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/venusha-thishan/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20All%20Licenses%20%26%20Certifications-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="View All On LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vthish&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vthish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vthish&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
