@@ -69,11 +69,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/9be0631e-d180-4176-a2b9-3ce19885c51b/public_url" target="_blank">
-    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/twitter_thumb_201604_blob" height="150" alt="AWS Cloud Quest: Cloud Practitioner" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/venusha-thishan/details/certifications/" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/twitter_thumb_201604_blob" height="160" alt="AWS Cloud Quest: Cloud Practitioner" />
   </a>
 </p>
 
