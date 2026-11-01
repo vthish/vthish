@@ -30,7 +30,7 @@ jobs:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.PROFILE_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate activity graph (retry on transient failure)
         id: generate_activity_graph_attempt_2
@@ -40,7 +40,7 @@ jobs:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.PROFILE_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Fail workflow when graph generation fails twice
         if: steps.generate_activity_graph_attempt_1.outcome == 'failure' && steps.generate_activity_graph_attempt_2.outcome == 'failure'
@@ -52,4 +52,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
