@@ -69,51 +69,49 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/9be0631e-d180-4176-a2b9-3ce19885c51b/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/aws-cloud-quest-cloud-practitioner-training-badge%20(1).png" height="150" alt="AWS Cloud Quest: Cloud Practitioner" />
+    <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/aws-cloud-quest-cloud-practitioner-training-badge%20(1).png" height="130" alt="AWS Cloud Quest: Cloud Practitioner" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/containers-kubernetes-essentials.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/containers-kubernetes-essentials.png" height="150" alt="IBM - Containers & Kubernetes Essentials" />
+    <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/containers-kubernetes-essentials.png" height="130" alt="IBM - Containers & Kubernetes Essentials" />
   </a>
 </p>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://courses.mooc.fi/certificates/validate/qh9edizhi7kqavf" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/certificateHesinki.png" width="100%" alt="University of Helsinki - DevOps with Kubernetes" /><br>
         <sub><b>University of Helsinki</b><br>DevOps with Kubernetes (5 ECTS)</sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://verify.skilljar.com/c/jn4rq9m23iy6" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Postmen.png" width="100%" alt="Postman Academy - API Testing Path" /><br>
         <sub><b>Postman Academy</b><br>API Testing Path (v12)</sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/AWS.jpeg" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/AWS.jpeg" width="100%" alt="AWS Cloud Quest Certificate" /><br>
         <sub><b>Amazon Web Services (AWS)</b><br>Cloud Quest: Cloud Practitioner</sub>
       </a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://www.hackerrank.com/certificates/9f7f93782bcd" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/NodeJs%20Basic.png" width="100%" alt="HackerRank Node (Basic)" /><br>
         <sub><b>HackerRank</b><br>Node (Basic)</sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://www.hackerrank.com/certificates/c228326494a5" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/NodeJs%20Inremediate.png" width="100%" alt="HackerRank Node.js (Intermediate)" /><br>
         <sub><b>HackerRank</b><br>Node.js (Intermediate)</sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Venusha%20Thishan%20-%20Intro%20to%20Machine%20Learning.png" target="_blank">
         <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Venusha%20Thishan%20-%20Intro%20to%20Machine%20Learning.png" width="100%" alt="Kaggle - Intro to Machine Learning" /><br>
         <sub><b>Kaggle</b><br>Intro to Machine Learning</sub>
@@ -121,9 +119,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" colspan="2">
+    <td align="center" colspan="3">
       <a href="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Venusha%20Thishan%20-%20Python.png" target="_blank">
-        <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Venusha%20Thishan%20-%20Python.png" width="50%" alt="Kaggle - Python" /><br>
+        <img src="https://raw.githubusercontent.com/vthish/vthish/main/CertifatesAndBadges/Venusha%20Thishan%20-%20Python.png" width="33%" alt="Kaggle - Python" /><br>
         <sub><b>Kaggle</b><br>Python Course</sub>
       </a>
     </td>
